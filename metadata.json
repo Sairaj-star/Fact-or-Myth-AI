@@ -1,0 +1,5 @@
+{
+  "name": "Fact or Myth AI",
+  "description": "An AI-powered web application that analyzes claims from YouTube Shorts links to determine if they are facts or myths, using Gemini with Google Search grounding to provide explanations and sources.",
+  "requestFramePermissions": []
+}
